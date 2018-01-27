@@ -1,4 +1,7 @@
 # P-P-P-Pixel-Art-Maker
+
+[MY PROJECT ON CODEPEN](https://codepen.io/momomartin/pen/opOaZo)
+
 What Will I Build?
 You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas!
 
@@ -27,13 +30,13 @@ Get the Starter Code
 If you'd like to start from scratch without any files, feel free to do so! You learn the most by developing on your own! But, it can be a bit challenging having to start from scratch, so we do provide a starter project to use.
 
 You can download the starter code through either:
-[The Pixel Art Maker repository on GitHub] (https://github.com/udacity/project-pixel-art-maker-starter)
-The zipped folder
+[The Pixel Art Maker repository on GitHub](https://github.com/udacity/project-pixel-art-maker-starter)
+[The zipped folder](https://github.com/udacity/project-pixel-art-maker-starter/archive/master.zip)
 
 The starter code includes all required HTML input fields, as well as some basic styling. A skeleton of the makeGrid() function is provided as well.
 
 Project Rubric
-Review the [Pixel Art Maker project rubric] (https://review.udacity.com/#!/rubrics/641/view) carefully, and refer to it often while you build the project. If you want additional feedback, post in the course forums or Slack.
+[Review the Pixel Art Maker project rubric](https://review.udacity.com/#!/rubrics/641/view) carefully, and refer to it often while you build the project. If you want additional feedback, post in the course forums or Slack.
 
 Development Strategy
 Before writing any code, try loading up index.html from the starter project to see how things look! Notice that the design.js file is implemented in the <body> tag in the index.html file. Your goal is to build out the design.js file to achieve all the interactive elements on the page!

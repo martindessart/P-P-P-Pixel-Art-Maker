@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+} /* centre texte*/
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+} /* défini police h1*/
+
+h2 {
+    margin: 1em 0 0.25em;
+} /* défini police h2*/
+
+h2:first-of-type {
+    margin-top: 0.5em;
+} /* défini juste marge premier h2*/
+
+table,
+tr,
+td {
+    border: 1px solid black;
+} /* bordure*/
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+} /* bordure*/
+
+tr {
+    height: 20px;
+} /* défini tr*/
+
+td {
+    width: 20px;
+} /* défini td*/
+
+input[type=number] {
+    width: 6em;
+} /* défini bouton valider*/
