@@ -28,7 +28,7 @@ grille.click(function(){
   var lines = document.getElementsByTagName('tr');
   couleur = $('#colorPicker').val();
   lines.style.background = couleur;
-}
+})
 
 
 //$('tr').click(function() {
