@@ -31,6 +31,7 @@ If you'd like to start from scratch without any files, feel free to do so! You l
 
 You can download the starter code through either:
 [The Pixel Art Maker repository on GitHub](https://github.com/udacity/project-pixel-art-maker-starter)
+
 [The zipped folder](https://github.com/udacity/project-pixel-art-maker-starter/archive/master.zip)
 
 The starter code includes all required HTML input fields, as well as some basic styling. A skeleton of the makeGrid() function is provided as well.
