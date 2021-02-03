@@ -26,14 +26,10 @@ function makeGrid() {
   }
 }
 
-grille.click(function(){
-  window.print();
-})
-
 
 grille.click(function(){
-  window.print("salut");
   var lines = document.getElementsByTagName('tr');
   grille.style.background= couleur;
+  grille.css("background-color", couleur);
   lines.style.background = couleur;
 })
